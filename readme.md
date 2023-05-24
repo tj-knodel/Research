@@ -2,7 +2,7 @@
 Summer Research with Dr. Ben Cameron
 
 ### Kings Summer Research 2023 (Chris, David, Melvin, Thaler)
-—— An amazing summary yet to be written
+—— An amazing summary yet to be written\\
 Looking for those sweet sweet finite (P_4 + P_1, H)-free graphs, baby.
 
 ### Kings Summer Research 2022 (Melvin)
