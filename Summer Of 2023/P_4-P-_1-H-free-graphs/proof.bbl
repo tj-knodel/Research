@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{gemfree}
+Ben Cameron and Chinh Hoang.
+\newblock A refinement on the structure of vertex-critical (p5, gem)-free
+  graphs.
+\newblock {\em SSRN Electronic Journal}, 12 2022.
+
+\bibitem{dichotomizing}
+Ben Cameron, Chính~T. Hoàng, and Joe Sawada.
+\newblock Dichotomizing k-vertex-critical h-free graphs for h of order four.
+\newblock {\em Discrete Applied Mathematics}, 312:106--115, 2022.
+\newblock Ninth Workshop on Graph Classes, Optimization, and Width Parameters.
+
+\bibitem{p6c4free}
+Pavol Hell and Shenwei Huang.
+\newblock Complexity of coloring graphs without paths and cycles.
+\newblock {\em Discrete Applied Mathematics}, 8392, 09 2013.
+
+\bibitem{clawfree}
+Vadim Lozin and Dieter Rautenbach.
+\newblock Some results on graphs without long induced paths.
+\newblock {\em Information Processing Letters}, 88(4):167--171, 2003.
+
+\end{thebibliography}
